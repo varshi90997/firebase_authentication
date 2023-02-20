@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firebaseauthentication</string>
+    <string name="facebook_app_id">1121333639261081</string>
+    <string name="fb_login_protocol_scheme">fb1121333639261081</string><!-- facebook uPar ni line ni agal fb and past-->
+    <string name="facebook_client_token">c395d0647af32517bee5bd5d748ba156</string>
+</resources>
+
+

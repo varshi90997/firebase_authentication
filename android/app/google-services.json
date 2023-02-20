@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "318815881281",
+    "project_id": "xrauth-e1436",
+    "storage_bucket": "xrauth-e1436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318815881281:android:c8d81da97239d5b1215ec0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318815881281-7mdbgskkihiaru5vpu5o4s5u2uums2dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBliXO5ut7hYdvB31wy09J9h9uwk2cGyfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318815881281-6o8a9f6bplsmu41fc3cpvqf15c3mkf9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318815881281-38fgc9drp4838h65bs5su82hcv675jpn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
